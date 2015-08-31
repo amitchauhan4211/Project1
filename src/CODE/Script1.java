@@ -9,5 +9,6 @@ public class Script1 {
 		System.out.println("Yes! i received it. Thanks Mr. amitchauhan4211.");
 		System.out.println("Ok. Try to get this without using 'sync' from Git Desktop client. Try to fetch it from eclipse directly.");
 		System.out.println("No indication appears on UI, please try 1 more time.");
+		System.out.println("Seems like it doesn't work that way, we have to use 'sync' button from git hub client.");
 	}
 }
