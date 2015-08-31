@@ -11,5 +11,6 @@ public class Script1 {
 		System.out.println("No indication appears on UI, please try 1 more time.");
 		System.out.println("Seems like it doesn't work that way, we have to use 'sync' button from git hub client.");
 		System.out.println("Yes!");
+		System.out.println("I think we must commit changes from client only.");
 	}
 }
