@@ -8,5 +8,6 @@ public class Script1 {
 		System.out.println("Hello Mr. chauhanamit4211, have you received code successfully!");
 		System.out.println("Yes! i received it. Thanks Mr. amitchauhan4211.");
 		System.out.println("Ok. Try to get this without using 'sync' from Git Desktop client. Try to fetch it from eclipse directly.");
+		System.out.println("No indication appears on UI, please try 1 more time.");
 	}
 }
