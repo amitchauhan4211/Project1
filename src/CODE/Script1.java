@@ -7,5 +7,6 @@ public class Script1 {
 		System.out.println("chauhanamit4211 received code from public repository.");
 		System.out.println("Hello Mr. chauhanamit4211, have you received code successfully!");
 		System.out.println("Yes! i received it. Thanks Mr. amitchauhan4211.");
+		System.out.println("Ok. Try to get this without using 'sync' from Git Desktop client. Try to fetch it from eclipse directly.");
 	}
 }
