@@ -1,6 +1,10 @@
 package CODE;
 
 public class CalculatePrice {
+	/**
+	 * Here we are trying to calculate pageview for web fonts their price.
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		  
 		  int webPageViews=250000, amount=35;
