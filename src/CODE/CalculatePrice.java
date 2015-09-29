@@ -9,6 +9,5 @@ public class CalculatePrice {
 		   System.out.println("PageViews : "+webPageViews+"   Cost : $"+amount*i+"    times: "+i +" X");
 		   webPageViews=webPageViews+750000; 
 		  }
-		  System.out.println("Working");
 	 }
 }
