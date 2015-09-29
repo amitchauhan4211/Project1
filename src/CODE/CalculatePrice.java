@@ -7,6 +7,7 @@ public class CalculatePrice {
 	 */
 	public static void main(String[] args) {
 		  
+		  //Pageviews starts from 250K and base price will remains same as base price for Dekstop License version.
 		  int webPageViews=250000, amount=35;
 		  //loop will calculate pageviews and then price for those page views.
 		  for(int i=1;i<=70;i++)
